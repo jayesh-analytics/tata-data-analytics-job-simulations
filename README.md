@@ -37,5 +37,9 @@ This bar chart breaks down the average delinquency rate across different employm
 2. **Actionable Intervention:** Recommended shifting from reactive debt collection to proactive hardship assistance for high-risk segments (e.g., automated SMS deferral offers for the unemployed segment).
 3. **Responsible Automation:** Designed an 'Agentic AI' loop that automates low-risk outreach while escalating high-impact interventions (like denying assistance) to human agents, ensuring strict regulatory alignment.
 
+## Built By Jayesh
+**Data Analyst**
+[LinkedIn](https://www.linkedin.com/in/jayesh-s-5566b9220/) · [Portfolio](https://jayesh-analytics.github.io/)
+
 ---
 *Disclaimer: This project was completed as part of the Forage virtual experience program to simulate a real-world business environment.*
