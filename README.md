@@ -39,7 +39,7 @@ This bar chart breaks down the average delinquency rate across different employm
 
 ## Built By Jayesh
 **Data Analyst**
-[LinkedIn](https://www.linkedin.com/in/jayesh-s-5566b9220/) · [Portfolio](https://jayesh-analytics.github.io/)
+[LinkedIn](https://www.linkedin.com/in/jayesh-suthar-dev/) · [Portfolio](https://jayesh-analytics.github.io/)
 
 ---
 *Disclaimer: This project was completed as part of the Forage virtual experience program to simulate a real-world business environment.*
